@@ -1,0 +1,5 @@
+Segment,Recency,Frequency,Monetary,Customer_Count,Customer_Percentage
+High-Value Customers,12.17,13.75,8088.02,713,16.44
+Inactive / Low-Value Customers,181.51,1.32,341.0,1622,37.39
+Recent Low-Frequency Customers,17.7,2.19,557.32,837,19.29
+Regular / Valuable Customers,71.64,4.08,1801.78,1166,26.88
